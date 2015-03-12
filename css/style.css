@@ -151,9 +151,7 @@ a.fbook:hover{background-position: -40px 0;}
 a.fbook:active{background-position: -80px 0;}
 
 a.twit{background-position: 0 -40px;}
-a.twit:hover{background-position: -40px -40px;}
-a.twit:active{background-position: -80px -40px;}
-
+left: ;  ja 
 a.gplus{background-position: 0 -80px;}
 a.gplus:hover{background-position: -40px -80px;}
 a.gplus:active{background-position: -80px -80px}
