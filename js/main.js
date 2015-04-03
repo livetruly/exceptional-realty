@@ -14,4 +14,16 @@ $(function() {
     }
   });
 
+
+  ///////// Contact Form Validation  ///////// 
+
+  $('form').submit(function(event){
+
+    var fullname = $('#fullname').val(),
+        email = $('#email').val(),
+        message = $.trim($('#message').val());
+
+    event.preventDefault();  //prevent form from submitting!
+  });
+
 });
